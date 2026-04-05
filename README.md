@@ -58,7 +58,7 @@ Based on our system design, we assume the following threats:
 ## 📊 Diagrams and Architecture
 
 ### Use Case Diagram
-*(Note to team: Upload the image file to the repository's root folder and link it here)* `![Use Case Diagram](./use-case-diagram.png)`
+![Use Case Diagram](./use-case-diagram.png)
 
 ### System Overview
 1. **User/System Input** -> Submits Email Data
