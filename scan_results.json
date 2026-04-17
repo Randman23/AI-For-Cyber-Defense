@@ -1,0 +1,211 @@
+[
+  {
+    "email_number": 1,
+    "sender": "support@paypal.com",
+    "subject": "Your account has been limited",
+    "risk_rating": 10,
+    "verdict": "DANGEROUS \u2013 LIKELY SCAM/PHISHING",
+    "urls_found": [
+      "http://paypal-secure-login.xyz/verify?id=839201"
+    ],
+    "flags": [
+      {
+        "category": "Suspicious URL",
+        "description": "URL uses suspicious TLD '.xyz': http://paypal-secure-login.xyz/verify?id=839201",
+        "severity": 3
+      },
+      {
+        "category": "Phishing / Spoofed Domain",
+        "description": "Domain 'paypal-secure-login.xyz' appears to spoof 'paypal.com': http://paypal-secure-login.xyz/verify?id=839201",
+        "severity": 3
+      },
+      {
+        "category": "Urgency / Pressure Tactics",
+        "description": "Body uses 1 urgency/threat phrases",
+        "severity": 2
+      },
+      {
+        "category": "Sensitive Info Request",
+        "description": "Requests sensitive personal/financial data (2 indicators)",
+        "severity": 3
+      }
+    ]
+  },
+  {
+    "email_number": 2,
+    "sender": "newsletter@medium.com",
+    "subject": "Your Weekly Reading List",
+    "risk_rating": 1,
+    "verdict": "TRUSTWORTHY",
+    "urls_found": [
+      "https://medium.com/weekly-digest",
+      "https://medium.com/top-stories",
+      "https://medium.com/settings"
+    ],
+    "flags": []
+  },
+  {
+    "email_number": 3,
+    "sender": "noreply@amazon-support-help.ru",
+    "subject": "Urgent: Your Amazon Order #9284-XXXX needs confirmation",
+    "risk_rating": 10,
+    "verdict": "DANGEROUS \u2013 LIKELY SCAM/PHISHING",
+    "urls_found": [
+      "http://amaz0n-delivery.tk/claim?token=abc123"
+    ],
+    "flags": [
+      {
+        "category": "Suspicious URL",
+        "description": "URL uses suspicious TLD '.tk': http://amaz0n-delivery.tk/claim?token=abc123",
+        "severity": 3
+      },
+      {
+        "category": "Sender Spoofing",
+        "description": "Sender claims to be 'amazon' but uses suspicious domain 'amazon-support-help.ru'",
+        "severity": 3
+      },
+      {
+        "category": "Suspicious Sender",
+        "description": "Sender address matches suspicious pattern",
+        "severity": 1
+      },
+      {
+        "category": "Urgency in Subject",
+        "description": "Subject uses pressure/urgency language",
+        "severity": 2
+      },
+      {
+        "category": "Urgency / Pressure Tactics",
+        "description": "Body uses 1 urgency/threat phrases",
+        "severity": 2
+      },
+      {
+        "category": "Sensitive Info Request",
+        "description": "Requests sensitive personal/financial data (1 indicators)",
+        "severity": 3
+      },
+      {
+        "category": "Scam Language",
+        "description": "Body contains 2 classic scam phrase(s)",
+        "severity": 3
+      }
+    ]
+  },
+  {
+    "email_number": 4,
+    "sender": "hr@yourcompany.com",
+    "subject": "Updated Holiday Schedule 2024",
+    "risk_rating": 1,
+    "verdict": "TRUSTWORTHY",
+    "urls_found": [
+      "https://intranet.yourcompany.com/holidays"
+    ],
+    "flags": []
+  },
+  {
+    "email_number": 5,
+    "sender": "winner-notification@lottery-global-prize.com",
+    "subject": "YOU HAVE WON $5,000,000 USD!!!",
+    "risk_rating": 8,
+    "verdict": "HIGH RISK",
+    "urls_found": [],
+    "flags": [
+      {
+        "category": "Suspicious Sender",
+        "description": "Sender address matches suspicious pattern",
+        "severity": 1
+      },
+      {
+        "category": "Aggressive Formatting",
+        "description": "Subject contains excessive caps or exclamation marks",
+        "severity": 1
+      },
+      {
+        "category": "Urgency / Pressure Tactics",
+        "description": "Body uses 2 urgency/threat phrases",
+        "severity": 2
+      },
+      {
+        "category": "Sensitive Info Request",
+        "description": "Requests sensitive personal/financial data (3 indicators)",
+        "severity": 3
+      },
+      {
+        "category": "Scam Language",
+        "description": "Body contains 6 classic scam phrase(s)",
+        "severity": 3
+      }
+    ]
+  },
+  {
+    "email_number": 6,
+    "sender": "no-reply@github.com",
+    "subject": "[GitHub] Please verify your email address",
+    "risk_rating": 2,
+    "verdict": "TRUSTWORTHY",
+    "urls_found": [
+      "https://github.com/users/verify-email-address?token=abc123xyz"
+    ],
+    "flags": [
+      {
+        "category": "Urgency / Pressure Tactics",
+        "description": "Body uses 1 urgency/threat phrases",
+        "severity": 2
+      }
+    ]
+  },
+  {
+    "email_number": 7,
+    "sender": "it-security@corporatebank-alert.net",
+    "subject": "IMMEDIATE ACTION REQUIRED - Account Breach Detected",
+    "risk_rating": 8,
+    "verdict": "HIGH RISK",
+    "urls_found": [
+      "http://bit.ly/3xR9Kp2"
+    ],
+    "flags": [
+      {
+        "category": "Hidden URL",
+        "description": "URL shortener hides true destination: http://bit.ly/3xR9Kp2",
+        "severity": 2
+      },
+      {
+        "category": "Suspicious Sender",
+        "description": "Sender address matches suspicious pattern",
+        "severity": 1
+      },
+      {
+        "category": "Urgency in Subject",
+        "description": "Subject uses pressure/urgency language",
+        "severity": 2
+      },
+      {
+        "category": "Aggressive Formatting",
+        "description": "Subject contains excessive caps or exclamation marks",
+        "severity": 1
+      },
+      {
+        "category": "Urgency / Pressure Tactics",
+        "description": "Body uses 3 urgency/threat phrases",
+        "severity": 2
+      },
+      {
+        "category": "Malware / Dangerous Attachment",
+        "description": "References to executable files or dangerous downloads detected",
+        "severity": 3
+      }
+    ]
+  },
+  {
+    "email_number": 8,
+    "sender": "orders@shopify.com",
+    "subject": "Your order has shipped!",
+    "risk_rating": 1,
+    "verdict": "TRUSTWORTHY",
+    "urls_found": [
+      "https://shopify.com/orders/track/12345",
+      "https://help.shopify.com"
+    ],
+    "flags": []
+  }
+]

@@ -1,0 +1,47 @@
+EMAIL_START
+From: support@paypal.com
+Subject: Your account has been limited
+Body: Dear Customer, We have noticed suspicious activity on your PayPal account. Your account has been temporarily limited. Please click here to restore your account: http://paypal-secure-login.xyz/verify?id=839201. You must verify within 24 hours or your account will be permanently suspended. Provide your SSN and credit card number for identity verification.
+EMAIL_END
+
+EMAIL_START
+From: newsletter@medium.com
+Subject: Your Weekly Reading List
+Body: Hi there! Here are your top stories this week based on your interests. Check out these articles: https://medium.com/weekly-digest and https://medium.com/top-stories. You can manage your email preferences at https://medium.com/settings. Have a great week!
+EMAIL_END
+
+EMAIL_START
+From: noreply@amazon-support-help.ru
+Subject: Urgent: Your Amazon Order #9284-XXXX needs confirmation
+Body: CONGRATULATIONS! You have been selected as a winner. Your Amazon package is on hold. Click http://amaz0n-delivery.tk/claim?token=abc123 to claim your FREE prize and confirm delivery. WARNING: Failure to act in 2 hours will result in package destruction. Send your password and bank details to confirm.
+EMAIL_END
+
+EMAIL_START
+From: hr@yourcompany.com
+Subject: Updated Holiday Schedule 2024
+Body: Hi Team, Please find attached the updated holiday schedule for 2024. You can also view it on our internal portal at https://intranet.yourcompany.com/holidays. Let HR know if you have any questions. Best regards, HR Department.
+EMAIL_END
+
+EMAIL_START
+From: winner-notification@lottery-global-prize.com
+Subject: YOU HAVE WON $5,000,000 USD!!!
+Body: DEAR LUCKY WINNER, Your email was randomly selected in our GLOBAL LOTTERY. You have won FIVE MILLION DOLLARS. To claim your prize send $500 processing fee via Western Union to: Mr. James Prince, Lagos Nigeria. Reply with your full name, address, phone number, bank account number, and passport scan. ACT NOW this offer expires soon!!!
+EMAIL_END
+
+EMAIL_START
+From: no-reply@github.com
+Subject: [GitHub] Please verify your email address
+Body: Hey there, Please verify your email address by clicking the link below. This link will expire in 24 hours. https://github.com/users/verify-email-address?token=abc123xyz. If you did not create a GitHub account, please ignore this email. Thanks, The GitHub Team.
+EMAIL_END
+
+EMAIL_START
+From: it-security@corporatebank-alert.net
+Subject: IMMEDIATE ACTION REQUIRED - Account Breach Detected
+Body: We detected unauthorized access from IP 192.168.1.1 in Russia. To secure your account IMMEDIATELY visit http://bit.ly/3xR9Kp2 and enter your online banking credentials. Do NOT delay. Also download the attached security.exe tool. Your account will be FROZEN if you do not comply in 1 hour. Call 1-800-FAKE-NUM.
+EMAIL_END
+
+EMAIL_START
+From: orders@shopify.com
+Subject: Your order has shipped!
+Body: Great news! Your order #12345 has shipped and is on its way. Track your package at https://shopify.com/orders/track/12345. Estimated delivery is Tuesday, April 22. Questions? Visit our help center at https://help.shopify.com. Thank you for shopping with us!
+EMAIL_END
